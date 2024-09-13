@@ -1,6 +1,8 @@
 # researchpapers
+chnge vit https://arxiv.org/pdf/2406.12847
 
 https://ieeexplore.ieee.org/document/10194966
+
 https://ieeexplore.ieee.org/document/10402113
 
 
