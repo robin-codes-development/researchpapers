@@ -1,3 +1,5 @@
+vitae2 :: https://arxiv.org/abs/2202.10108
+
 # researchpapers
 https://arxiv.org/pdf/2103.14030
 https://arxiv.org/abs/2111.09883
